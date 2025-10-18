@@ -1,0 +1,1 @@
+import{_ as c,c as e,o as a,F as s,e as o,a as n}from"./index-COfoGa1b.js";const r={},t={class:"loading-block"};function _(d,i){return a(),e("div",t,[(a(),e(s,null,o(12,l=>n("div")),64))])}const m=c(r,[["render",_],["__scopeId","data-v-a9d213ac"]]);export{m as L};

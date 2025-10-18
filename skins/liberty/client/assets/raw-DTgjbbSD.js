@@ -1,0 +1,1 @@
+import{_ as a,c as t,o}from"./index-COfoGa1b.js";const c={},n=["value"];function r(e,s){return o(),t("textarea",{readonly:"",value:e.data.content},null,8,n)}const l=a(c,[["render",r],["__scopeId","data-v-0b889017"]]);export{l as default};

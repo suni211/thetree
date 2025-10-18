@@ -1,0 +1,1 @@
+import{D as o}from"./diff-4_kp9Say.js";import{_ as f,r,j as s,o as n}from"./index-COfoGa1b.js";const a={components:{Diff:o},data(){return this.$store.state.viewData}};function i(t,c,l,p,d,m){const e=r("Diff",!0);return n(),s(e,{title:`r${t.oldRev} vs r${t.rev}`,diffHtml:t.diff.diffHtml},null,8,["title","diffHtml"])}const $=f(a,[["render",i]]);export{$ as default};

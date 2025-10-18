@@ -1,0 +1,1 @@
+import{_ as n,c,o,t as s,n as r}from"./index-COfoGa1b.js";const u={props:{count:{type:Number,required:!0,default:0}},computed:{countStr(){return this.count>0?"+"+this.count:this.count}}};function a(i,p,t,_,d,e){return o(),c("span",{class:r({plus:t.count>0,minus:t.count<0})},s(e.countStr),3)}const f=n(u,[["render",a],["__scopeId","data-v-47e792d5"]]);export{f as D};
